@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/manishsaraan/number-formatter-module.svg?branch=master)
+
 Number Formatter
 =========
 
